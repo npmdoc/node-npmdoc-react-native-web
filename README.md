@@ -1,4 +1,7 @@
-# api documentation for  [react-native-web (v0.0.81)](https://github.com/necolas/react-native-web#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-web.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-web) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-web.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-web)
+# npmdoc-react-native-web
+
+#### api documentation for  [react-native-web (v0.0.81)](https://github.com/necolas/react-native-web#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-web.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-web) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-web.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-web)
+
 #### React Native for Web
 
 [![NPM](https://nodei.co/npm/react-native-web.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-native-web)
